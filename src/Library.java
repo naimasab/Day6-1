@@ -4,7 +4,7 @@ public class Library {
     private ArrayList<Book> books = new ArrayList<>();
 
     public Library(){
-        books.add(new FictionBook("","","",""));
+        books.add(new FictionBook("werewolf","kk","kk","supernatural"));
         books.add(new Book("","",""));
         books.add(new Book("","",""));
     }
